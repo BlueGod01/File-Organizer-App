@@ -44,4 +44,3 @@ Just select a folder and click **Organize Files** — everything happens automat
 5. Moves each file into its corresponding folder.  
 6. Displays a success message when the task is complete.
 
-**Example before:**
