@@ -90,7 +90,7 @@ organize_btn = tk.Button(root, text="Organize Files", command=start_organizing,
 organize_btn.pack(pady=20)
 
 # Footer Label
-footer = tk.Label(root, text="Created with ❤️ in Python", bg="#f0f0f0", fg="#555", font=("Arial", 9))
+footer = tk.Label(root, text="Created with  in Python", bg="#f0f0f0", fg="#555", font=("Arial", 9))
 footer.pack(side="bottom", pady=10)
 
 # Run GUI
