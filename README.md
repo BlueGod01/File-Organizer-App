@@ -11,7 +11,7 @@ Just select a folder and click **Organize Files** — everything happens automat
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Component | Description |
 |------------|-------------|
@@ -20,11 +20,11 @@ Just select a folder and click **Organize Files** — everything happens automat
 | **File Operations** | `os`, `shutil` modules from Python Standard Library |
 | **UI Elements** | Tkinter widgets like Button, Label, Entry, MessageBox, and Filedialog |
 
-> 🧡 No external dependencies — runs entirely on local system.
+>  No external dependencies — runs entirely on local system.
 
 ---
 
-## ⚙️ Features
+## Features
 
 ✅ Select a folder easily using a GUI folder picker  
 ✅ Automatically creates subfolders based on file extensions  
@@ -35,12 +35,14 @@ Just select a folder and click **Organize Files** — everything happens automat
 
 ---
 
-## 🖼️ How It Works
+##  How It Works
 
-1. Choose a folder using the **Browse** button.  
-2. Click **Organize Files**.  
-3. The app scans all files in the selected folder.  
-4. Creates folders like `Pdfs/`, `Images/`, `Texts/`, etc.  
-5. Moves each file into its corresponding folder.  
-6. Displays a success message when the task is complete.
+1.  Run the .py file on your terminal.
+2.  Choose a folder using the **Browse** button.  
+3. Click **Organize Files**.  
+4. The app scans all files in the selected folder.  
+5. Creates folders like `Pdfs/`, `Images/`, `Texts/`, etc.  
+6. Moves each file into its corresponding folder.  
+7. Displays a success message when the task is complete.
+
 
